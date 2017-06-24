@@ -1,0 +1,29 @@
+			ANGULAR CRYPTOGRAPHY
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Enter a Message : - i am cryptographer
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	Press 1 for Encryption using Positive Angle Traversal Method
+	
+	Press 2 for Encryption using Negative Angle Traversal Method
+	
+	Press 3 for Encryption using Alternate Angle Traversal Method
+		
+		Enter Your Choice : - 1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Encryption starts.......
+
+
+After Encryption, Cipher text : - 203005131239004149285347266304257185286133267193169284
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Decryption starts.......
+
+After Decryption, Message : - i am cryptographer
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
